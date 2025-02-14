@@ -77,3 +77,4 @@ elif input_mode == "Webcam":
 
 st.write("✅ Demo complete!")
 st.write("📦 Source code saved to 'streamlit_app.py'")
+# streamlit run streamlit_app.py (run the instruction in the terminal)
